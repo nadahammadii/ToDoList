@@ -8,7 +8,7 @@ This is a simple yet customizable to-do list application developed in Android St
 * Adding new tasks with descriptions
 * Marking tasks as completed
 * Removing completed tasks
-* Optionally setting due dates for tasks (if your app functionality includes this)
+
 
 ## This project serves as a starting point for further development and customization to cater to specific needs.
 Installation:
